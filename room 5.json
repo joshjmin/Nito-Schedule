@@ -1,0 +1,5 @@
+{
+    "name": "room 5",
+    "capacity": 250,
+    "avalibility": [true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true]
+}

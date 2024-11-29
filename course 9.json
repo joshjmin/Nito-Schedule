@@ -1,0 +1,6 @@
+{
+    "name": "course 9",
+    "prof": "name 9",
+    "number of student": 220,
+    "avalibility": [false, true, false, true, false, false, false, false, false, true, true, true, false, false, true, true, true, true, true, false, true, true, true, false]
+}
