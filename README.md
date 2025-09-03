@@ -1,6 +1,6 @@
 
 🐍 🏫 Developed a Python-based application to automatically generate a dynamic and optimal exam schedules based on different aspects: <br>
-&nbsp; professors' availability, student count, room capacity, and back to back scheduling <br>
+&emsp; professors' availability, student count, room capacity, and back to back scheduling <br>
 ☁️ Prompted and modified Claude 3.5 Sonnet v2 to generate dynamic schedules considering the listed factors <br>
 🪨 Integrated AWS bedrock for AI orchestration, AWS S3 for secure data storage <br>
 ✨ Used Figma for a user interface prototype tailored for different user groups <br>
